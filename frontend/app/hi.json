@@ -1,0 +1,55 @@
+{
+  "login_title": "OTP द्वारा लॉगिन",
+  "login_subtitle": "OTP के माध्यम से सुरक्षित लॉगिन",
+  "select_role": "भूमिका चुनें",
+  "admin": "प्रशासक",
+  "distributor": "डिस्ट्रीब्यूटर",
+  "distributor_code": "डिस्ट्रीब्यूटर कोड",
+  "mobile_number": "मोबाइल नंबर",
+  "send_otp": "OTP भेजें",
+  "sending": "भेजा जा रहा है...",
+  "error": "त्रुटि",
+  "otp_failed": "OTP भेजने में विफल",
+  "network_error": "नेटवर्क त्रुटि",
+  "server_not_reachable": "सर्वर से कनेक्ट नहीं हो सका",
+  "missing_distributor_code": "डिस्ट्रीब्यूटर कोड नहीं है",
+  "enter_distributor_code": "कृपया डिस्ट्रीब्यूटर कोड दर्ज करें",
+
+  "distributor_id": "डिस्ट्रीब्यूटर आईडी",
+  "todays_visits": "आज की विज़िट",
+  "completed": "पूर्ण",
+  "pending": "लंबित",
+
+  "field_work_started": "फील्ड वर्क शुरू",
+  "field_work_ended": "फील्ड वर्क समाप्त",
+
+  "quick_actions": "त्वरित कार्य",
+  "start_new_visit": "नई विज़िट शुरू करें",
+  "view_route_map": "रूट मैप देखें",
+
+  "recent_activity": "हाल की गतिविधि",
+
+  "home": "होम",
+  "visit_history": "विज़िट इतिहास",
+
+  "auth_error": "प्रमाणीकरण त्रुटि",
+  "token_missing": "टोकन नहीं मिला। कृपया फिर से लॉगिन करें।",
+  "failed_to_load_dashboard": "डैशबोर्ड लोड नहीं हो सका",
+  "network_error_server": "सर्वर उपलब्ध नहीं है",
+
+  "enter_otp": "OTP दर्ज करें",
+  "otp_sent_to": "भेजा गया",
+  "verify_otp": "OTP सत्यापित करें",
+  "verifying": "सत्यापित किया जा रहा है...",
+  "resend_in": "OTP पुनः भेजें",
+  "resend_otp": "OTP फिर से भेजें",
+  "otp_verify_failed": "OTP सत्यापन विफल",
+  "otp_sent": "OTP भेजा गया",
+  "otp_sent_success": "नया OTP सफलतापूर्वक भेजा गया",
+  "otp_resend_failed": "OTP पुनः भेजने में असफल",
+
+  "notifications": "सूचनाएँ",
+  "failed_to_load_notifications": "सूचनाएँ लोड करने में विफल",
+  "new_visit_assigned": "नई विज़िट सौंपी गई",
+  "no_notifications": "अभी कोई सूचना नहीं है"
+}

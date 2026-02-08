@@ -1,0 +1,55 @@
+{
+  "login_title": "Login via OTP",
+  "login_subtitle": "Secure login using OTP",
+  "select_role": "Select Role",
+  "admin": "Admin",
+  "distributor": "Distributor",
+  "distributor_code": "Distributor Code",
+  "mobile_number": "Mobile Number",
+  "send_otp": "Send OTP",
+  "sending": "Sending...",
+  "error": "Error",
+  "otp_failed": "Failed to send OTP",
+  "network_error": "Network Error",
+  "server_not_reachable": "Server not reachable",
+  "missing_distributor_code": "Missing Distributor Code",
+  "enter_distributor_code": "Please enter Distributor Code",
+
+  "distributor_id": "Distributor ID",
+  "todays_visits": "Today’s Visits",
+  "completed": "Completed",
+  "pending": "Pending",
+
+  "field_work_started": "Field Work Started",
+  "field_work_ended": "Field Work Ended",
+
+  "quick_actions": "Quick Actions",
+  "start_new_visit": "Start New Visit",
+  "view_route_map": "View Route Map",
+
+  "recent_activity": "Recent Activity",
+
+  "home": "Home",
+  "visit_history": "Visit History",
+
+  "auth_error": "Auth Error",
+  "token_missing": "Token missing. Please login again.",
+  "failed_to_load_dashboard": "Failed to load dashboard",
+  "network_error_server": "Server unreachable",
+
+  "enter_otp": "Enter OTP",
+  "otp_sent_to": "Sent to",
+  "verify_otp": "Verify OTP",
+  "verifying": "Verifying...",
+  "resend_in": "Resend OTP in",
+  "resend_otp": "Resend OTP",
+  "otp_verify_failed": "OTP verification failed",
+  "otp_sent": "OTP Sent",
+  "otp_sent_success": "New OTP sent successfully",
+  "otp_resend_failed": "Unable to resend OTP",
+
+  "notifications": "Notifications",
+  "failed_to_load_notifications": "Failed to load notifications",
+  "new_visit_assigned": "New Visit Assigned",
+  "no_notifications": "No notifications yet"
+}
